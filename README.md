@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-italogdm@gmail.com-5429CC?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italogdm@gmail.com)](mailto:italogdm@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/Italo-Nogueira?style=social)
 
-## Olá! Eu sou Italo Nogueira aka Ayhu
+## Olá! Eu sou Italo Nogueira aka AyhuDev
 
 
 <div>
